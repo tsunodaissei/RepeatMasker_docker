@@ -1,2 +1,2 @@
 # RepeatMasker_docker
-RepeatMasker container with search engine TRF and HMMER
+RepeatMasker container with search engines TRF and HMMER
